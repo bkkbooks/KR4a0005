@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4a0005/krp/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書集部一
+  hash: sha256:b56effb9eba19d860ed53eccb109a1cd5723d9cb2cc5eb3683f088a571d2e663
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4a0005_WYG_000-1a, image: WYG1062/WYG1062-0455a.png}
+body:
+  text: 離騷草木疏楚詞類提要臣等謹案離騷草木疏四卷宋吳仁傑撰仁傑有古周易巳著録是編末有仁傑慶元丁巳自序謂梁劉杳有草木疏二卷見於本傳其書巳亡杳疏凡王逸所集者皆在焉仁傑獨取二十五篇疏之其大㫖謂離騷之文多本山海經故書中引用每以山海經為斷若辨夕攬洲之宿莽句引朝歌之山有莽草焉為據駁王逸舊注之非其說甚辨然騷人寄興義不一端瓊枝若木之屬固有寓言澧蘭沅芷之類亦多即目必舉其隨時抒望觸物興懷悉引之於大荒之外使靈均所賦悉出伯益所書是澤畔行吟主於侈其博贍非以寫其哀怨是亦好奇之過矣然其徴引宏富考辨典核實能補王逸訓詁所未及以視陸璣之疏毛詩羅願之翼爾雅可以方軌並駕爭騖後先故博物者恆資焉迹其賅洽固亦考證之林也此本為影宋舊鈔末有慶元庚申方燦跋又有校正姓氏三行蓋仁傑官國子學録時屬燦刋於羅田者舊板散佚流傳頗罕寫本僅存亦可謂藝林之珍笈矣乾隆四十六年二月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:a0268c470021e6d1d3ff3ab06e2b157198162fe4e93bca80651b8329e50663cf
+metadata:
+  title: 離騷草木疏
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 23:44:47.547892'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR4a0005/KR4a0005_000.txt
+hash: sha256:94a5458f8b793fc4fda24961dfc42597509c266dec52308a73e162b9e5619e80
