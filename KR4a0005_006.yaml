@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 跋國録呉先生以淹該之學從政之暇訓釋諸書譬引後進不為不多比以離騷草木疏見屬刋於羅田縣庠吁逺矣哉慶元庚申中秋日河南方燦識州學生張師尹校對羅田縣縣學長杜醇同校正免解進士蘄州學正充羅田縣縣學講書吳世傑校正
-  hash: sha256:dd2720cb6d850c3278ac9b87cda8d3360cd28dbaf17fe19f98176a40eb321887
+  text: 跋國録吳先生以淹該之學從政之暇訓釋諸書譬引後進不為不多比以離騷草木疏見屬刋於羅田縣庠吁逺矣哉慶元庚申中秋日河南方燦識州學生張師尹校對羅田縣縣學長杜醇同校正免解進士蘄州學正充羅田縣縣學講書吳世傑校正
+  hash: sha256:90d7ad15ed9950ad3444ed6de420ae7cb62308b9cbf84ac3de2e77e147c427b8
   markers:
   - {type: page-break, offset: 0, content: '', id: KR4a0005_WYG_006-1a, image: WYG1062/WYG1062-0494c.png}
 metadata:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR4a0005/KR4a0005_006.txt
-hash: sha256:1ceefaf0d6ad62a0c68b96e2937864510449927173ccfd5c90c9142ccc71da0b
+hash: sha256:33614016f6ae814ac737336bd20d36ac72c3d8cbf69f8b2beb097e1b708fca71
